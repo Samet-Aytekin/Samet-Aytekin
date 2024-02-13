@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Samet</h1>
 <h3 align="center">Someone from Türkiye who is passionate about Java</h3>
 
-- 🌱 I’m currently learning **Springboot**
+- 🌱 I’m currently learning **Spring Boot**
 
 - 📫 How to reach me **smt.aytek38@gmail.com**
 
